@@ -1,6 +1,13 @@
 fightcaster
 ===========
 
+### MVP
+0. User Accounts
+0. Facebook Login
+0. Submit picks for upcoming fight
+0. Publish results after fight is over
+0. Calculate score based on picks <=> results  
+
 competetive fight picking
 
 * can see all the picks you and friends have
